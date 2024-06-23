@@ -1,0 +1,20 @@
+Write a program to print the sum of the number 3, 4, & 5.
+Write a program for Relational Operators.
+Write a program to print the Addition, Subtraction, Multiplication, Division and Modulo of the Numbers 12 & 7.
+Write a program to store Integer, Float, String value in variable and print.
+Write a program to take 2 inputs from the user and perform Addition, Subtraction, Multiplication, Division and Modulo 
+Write a program to take Length and width from user and find area and perimeter of rectangle.
+Write a program to take ASCII value from user and print it’s Alphabet.
+Write a program to add 3 to the ASCII value of the character (userenter) and print the equivalent alphabet.
+Write a program to assign a value of 100.25 to a double type variable and convert it into Integer type.
+Write a program to Take two integer inputs from the user. First calculate the sum of two then product of two. Finally print the sum and product of both obtained results.
+Write a program to print the Output of this Operation (!(!(45 == 67) && (45 < 89) && !(78 >= 45)))
+Write a program to perform all Assignment Operator on value 15.
+Write a program to swap 2 number with using third variable.
+Write a program to swap 3 numbers With using other variables.
+Write a program to swap 2 number without using third variable.
+Write a program to swap 3 number without using other variable. 
+Write a program to take the radius from the user and calculate its perimeter and area of the circle.
+Write a program to convert Fahrenheit to Celsius C = ((F-32)*5)/9
+If the marks of Robert in three subjects are 78,45 and 62 respectively (each out of 100 ), write a program to calculate his total marks and percentage marks
+Write a program Take 3 input from user name, age, university and show message like below
