@@ -1,0 +1,30 @@
+# While loop progran list
+
+1. Write a program to Print your name ten times.
+2. Write a program to print 1 2 3 4 5 6 7 8 9 10.
+3. Write a program to print 10 9 8 7 6 5 4 3 2 1.
+4. Write a program to print 1 3 5 7 9 11 13 15 17 19.
+5. Write a program to print 2 4 6 8 10 12 14 16 18 20.
+6. Write a program to print 0 5 10 15 20 25 30.
+7. Write a program to print 1 4 9 16 25.
+8. Write a program to print 1 8 27 64 125.
+9. Write a program to print addition of 1 to 10 numbers.
+10. Write a program to calculate power using while & for loop.
+11. Write a program to Take two inputs from user and do addition and multiplication of the between numbers of that number.
+    Ex: num1 = 5 Num2 = 10
+    Then addition = 45, Multiplication = 151200
+12. Write a program to take any one number from user and print its table
+    Ex: Num1 = 5
+    5 * 1= 5
+    5 * 2 =10
+    |
+    |
+    5* 10 = 50
+13. Write a program to take integer input from the user and separate each number and check whether it is even or odd number from that.
+    Ex: 543
+    5 is odd
+    4 is even
+    3 is odd
+14. Write a program to calculate the sum of digits of a number given by user.
+     E.g.-INPUT : 123 OUTPUT : 6
+    INPUT : 12345 OUTPUT : 15
